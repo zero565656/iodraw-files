@@ -452,7 +452,7 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-530" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rowspan=1;colspan=3;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-465">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-530" value="利用多模态进行信息抽取的方法研究" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rowspan=1;colspan=3;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-465">
           <mxGeometry x="60" width="90" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
