@@ -816,7 +816,7 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-631" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rowspan=1;colspan=6;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-620">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-631" value="毕业论文初稿撰写" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rowspan=1;colspan=6;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-620">
           <mxGeometry x="300" width="180" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
