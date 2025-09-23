@@ -570,7 +570,7 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-581" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;利用大语言模型抽取清单数据及其验证的方法研究&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rowspan=1;colspan=4;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-576">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-581" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;利用大语言模型抽取数据及其验证的方法研究&lt;/font&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rowspan=1;colspan=4;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-576">
           <mxGeometry x="120" width="120" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
