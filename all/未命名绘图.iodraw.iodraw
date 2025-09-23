@@ -1082,7 +1082,7 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-685" value="毕业答辩" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-664">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-685" value="毕业答辩" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;fillColor=#FF66B3;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-664">
           <mxGeometry x="600" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
