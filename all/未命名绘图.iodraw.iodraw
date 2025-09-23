@@ -949,7 +949,7 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-658" value="导师审阅、修改、查重、送审" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rowspan=1;colspan=5;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-658" value="导师审阅、修改、查重、送审" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rowspan=1;colspan=5;rounded=1;labelBackgroundColor=none;fillColor=#FFCCFF;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
           <mxGeometry x="450" width="150" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
