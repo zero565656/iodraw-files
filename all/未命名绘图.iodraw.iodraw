@@ -334,7 +334,7 @@
         <mxCell id="WIxsyHFAf4K7mnx9bS5h-461" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-448">
           <mxGeometry y="96" width="630" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-462" value="Value 7" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;rowspan=1;colspan=3;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-461">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-462" value="完成开题，确定整理框架" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;rowspan=1;colspan=3;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-461">
           <mxGeometry width="90" height="33" as="geometry">
             <mxRectangle width="30" height="33" as="alternateBounds" />
           </mxGeometry>
