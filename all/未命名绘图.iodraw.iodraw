@@ -693,7 +693,7 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-606" value="模型实验与评估" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rowspan=1;colspan=3;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-598">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-606" value="模型实验与评估" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rowspan=1;colspan=3;rounded=1;labelBackgroundColor=none;fillColor=#FFCCCC;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-598">
           <mxGeometry x="210" width="90" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
