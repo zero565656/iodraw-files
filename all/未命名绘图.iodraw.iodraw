@@ -949,27 +949,27 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-658" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
-          <mxGeometry x="450" width="30" height="31" as="geometry">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-658" value="导师审阅、修改、查重、送审" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;rowspan=1;colspan=5;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
+          <mxGeometry x="450" width="150" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-659" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-659" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" visible="0" parent="WIxsyHFAf4K7mnx9bS5h-642">
           <mxGeometry x="480" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-660" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-660" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" visible="0" parent="WIxsyHFAf4K7mnx9bS5h-642">
           <mxGeometry x="510" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-661" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-661" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" visible="0" parent="WIxsyHFAf4K7mnx9bS5h-642">
           <mxGeometry x="540" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-662" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-642">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-662" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" visible="0" parent="WIxsyHFAf4K7mnx9bS5h-642">
           <mxGeometry x="570" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
