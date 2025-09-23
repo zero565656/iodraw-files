@@ -442,7 +442,7 @@
         <mxCell id="WIxsyHFAf4K7mnx9bS5h-465" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-448">
           <mxGeometry y="129" width="630" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-466" value="Value 10" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-465">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-466" value="" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="WIxsyHFAf4K7mnx9bS5h-465">
           <mxGeometry width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
