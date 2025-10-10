@@ -42,7 +42,7 @@
         <mxCell id="172IKPFZeLHUADBEeoZN-12" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;PDF to Image&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#43beb9;" vertex="1" parent="1">
           <mxGeometry x="36" y="138" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="172IKPFZeLHUADBEeoZN-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.3523809523809547;arrowSize=0.30158730158730407;fontColor=#deeaf6;strokeColor=#deeaf6;dashed=1;" vertex="1" parent="1">
+        <mxCell id="172IKPFZeLHUADBEeoZN-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.3523809523809547;arrowSize=0.30158730158730407;fontColor=#deeaf6;strokeColor=#deeaf6;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="107" y="83" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
