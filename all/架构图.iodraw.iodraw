@@ -51,8 +51,8 @@
         <mxCell id="172IKPFZeLHUADBEeoZN-19" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;text&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#43beb9;" vertex="1" parent="1">
           <mxGeometry x="190.75" y="131" width="85.25" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="172IKPFZeLHUADBEeoZN-24" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;extract&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#43beb9;" vertex="1" parent="1">
-          <mxGeometry x="345.5" y="63.5" width="80" height="10" as="geometry" />
+        <mxCell id="172IKPFZeLHUADBEeoZN-24" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;extract&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#43beb9;" vertex="1" parent="1">
+          <mxGeometry x="137" y="73" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="172IKPFZeLHUADBEeoZN-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#b255ce;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="275" y="160" width="230" height="140" as="geometry" />
