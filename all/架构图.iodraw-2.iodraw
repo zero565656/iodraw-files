@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SfEIxCsWksjHpizCMDP_-14" value="&lt;p style=&quot;font-weight: 400; text-wrap-mode: wrap; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 7px;&quot;&gt;1.水电站生命周期消耗电力1.77x10^5万kWh&lt;/p&gt;&lt;p style=&quot;font-weight: 400; text-wrap-mode: wrap; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 7px;&quot;&gt;相似度:0.6854&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50.5" y="223.5" width="139.5" height="66.5" as="geometry" />
+          <mxGeometry x="50.5" y="223.5" width="179.5" height="136.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
