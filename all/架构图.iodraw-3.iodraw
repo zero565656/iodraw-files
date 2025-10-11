@@ -193,7 +193,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="djpM-wUsXwVkZVytWtgG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.082;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="djpM-wUsXwVkZVytWtgG-50">
+        <mxCell id="djpM-wUsXwVkZVytWtgG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.082;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#bc7f00;" edge="1" parent="1" target="djpM-wUsXwVkZVytWtgG-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="226.9999999999999" y="243.5" as="sourcePoint" />
             <mxPoint x="311.9999999999999" y="119.25" as="targetPoint" />
@@ -210,7 +210,7 @@
         <mxCell id="djpM-wUsXwVkZVytWtgG-45" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;text&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#f9bc6c;" vertex="1" parent="1">
           <mxGeometry x="58.75" y="267.5" width="29.25" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="djpM-wUsXwVkZVytWtgG-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#fbc1d2;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="djpM-wUsXwVkZVytWtgG-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#bc7f00;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="276" y="17" width="244.87" height="140" as="geometry" />
         </mxCell>
         <mxCell id="djpM-wUsXwVkZVytWtgG-49" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;LCI extraction&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#feacc3;" vertex="1" parent="1">
