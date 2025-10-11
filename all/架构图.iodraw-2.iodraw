@@ -128,12 +128,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SfEIxCsWksjHpizCMDP_-15" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontColor=#b65fce;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="180" height="110" as="geometry" />
+          <mxGeometry x="40" y="200" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SfEIxCsWksjHpizCMDP_-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="SfEIxCsWksjHpizCMDP_-15">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SfEIxCsWksjHpizCMDP_-17" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Segoe UI&amp;quot;;&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;溪洛渡水电站生命周期消耗电力&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Segoe UI&amp;quot;;&quot;&gt; 1.77&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;×&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Segoe UI&amp;quot;;&quot;&gt;10&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Segoe UI&amp;quot;;&quot;&gt;⁵&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Segoe UI&amp;quot;;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;万&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Segoe UI&amp;quot;;&quot;&gt; kWh&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;" vertex="1" parent="SfEIxCsWksjHpizCMDP_-16">
+        <mxCell id="SfEIxCsWksjHpizCMDP_-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;" vertex="1" parent="SfEIxCsWksjHpizCMDP_-16">
           <mxGeometry width="180" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -144,24 +144,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SfEIxCsWksjHpizCMDP_-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="SfEIxCsWksjHpizCMDP_-16">
-          <mxGeometry x="120" width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SfEIxCsWksjHpizCMDP_-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="SfEIxCsWksjHpizCMDP_-15">
-          <mxGeometry y="70" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SfEIxCsWksjHpizCMDP_-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;" vertex="1" parent="SfEIxCsWksjHpizCMDP_-20">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SfEIxCsWksjHpizCMDP_-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="SfEIxCsWksjHpizCMDP_-20">
-          <mxGeometry x="60" width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SfEIxCsWksjHpizCMDP_-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="SfEIxCsWksjHpizCMDP_-20">
           <mxGeometry x="120" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
