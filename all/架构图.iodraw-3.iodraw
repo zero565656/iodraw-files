@@ -263,7 +263,7 @@
         <mxCell id="djpM-wUsXwVkZVytWtgG-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="djpM-wUsXwVkZVytWtgG-66">
           <mxGeometry y="21" width="47.13" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="djpM-wUsXwVkZVytWtgG-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;" vertex="1" parent="djpM-wUsXwVkZVytWtgG-67">
+        <mxCell id="djpM-wUsXwVkZVytWtgG-68" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;text&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;align=right;" vertex="1" parent="djpM-wUsXwVkZVytWtgG-67">
           <mxGeometry width="47" height="19" as="geometry">
             <mxRectangle width="17" height="19" as="alternateBounds" />
           </mxGeometry>
