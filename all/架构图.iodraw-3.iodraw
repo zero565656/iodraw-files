@@ -46,8 +46,12 @@
         </mxCell>
         <mxCell id="172IKPFZeLHUADBEeoZN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#43beb9;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="159.5" y="87" as="sourcePoint" />
-            <mxPoint x="220" y="113" as="targetPoint" />
+            <mxPoint x="160.5" y="87" as="sourcePoint" />
+            <mxPoint x="221" y="113" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="191" y="88" />
+              <mxPoint x="191" y="113" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="172IKPFZeLHUADBEeoZN-12" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;PDF to Image&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#43beb9;" parent="1" vertex="1">
