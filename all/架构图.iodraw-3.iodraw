@@ -227,22 +227,20 @@
             <mxPoint x="242.7500000000001" y="259.2500000000001" as="sourcePoint" />
             <mxPoint x="290.5" y="208.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="239" y="270" />
-              <mxPoint x="271" y="270" />
+              <mxPoint x="271" y="267" />
               <mxPoint x="271" y="216" />
               <mxPoint x="306" y="216" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="djpM-wUsXwVkZVytWtgG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#bc7f00;strokeWidth=1.5;" edge="1" parent="1" target="djpM-wUsXwVkZVytWtgG-50">
+        <mxCell id="djpM-wUsXwVkZVytWtgG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#bc7f00;strokeWidth=1.5;" edge="1" parent="1" source="djpM-wUsXwVkZVytWtgG-43" target="djpM-wUsXwVkZVytWtgG-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="226.9999999999999" y="243.5" as="sourcePoint" />
             <mxPoint x="311.9999999999999" y="119.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="227" y="170" />
+              <mxPoint x="222" y="170" />
               <mxPoint x="272" y="170" />
               <mxPoint x="272" y="115" />
-              <mxPoint x="298" y="115" />
             </Array>
           </mxGeometry>
         </mxCell>
