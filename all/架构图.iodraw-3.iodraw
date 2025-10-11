@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="172IKPFZeLHUADBEeoZN-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#b255ce;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="276" y="160" width="254" height="160" as="geometry" />
+          <mxGeometry x="274" y="160" width="254" height="160" as="geometry" />
         </mxCell>
         <mxCell id="172IKPFZeLHUADBEeoZN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#43beb9;" parent="1" source="172IKPFZeLHUADBEeoZN-2" target="172IKPFZeLHUADBEeoZN-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -137,6 +137,9 @@
         </mxCell>
         <mxCell id="djpM-wUsXwVkZVytWtgG-6" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Similarity Score&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;fontColor=#b65fce;" vertex="1" parent="1">
           <mxGeometry x="387" y="269" width="60" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="djpM-wUsXwVkZVytWtgG-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#43beb9;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
