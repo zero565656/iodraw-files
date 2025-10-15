@@ -17,7 +17,7 @@
           <mxGeometry x="470" y="420" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LQcWQOEFzHMvCQXmjaSS-6" value="LCA-domainized LLM using RAG" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="314" y="280" width="100" height="40" as="geometry" />
+          <mxGeometry x="314" y="160" width="406" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
