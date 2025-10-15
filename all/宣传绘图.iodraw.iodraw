@@ -8,7 +8,7 @@
           <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LQcWQOEFzHMvCQXmjaSS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e4eeed;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="266" y="170" width="314" height="110" as="geometry" />
+          <mxGeometry x="257" y="170" width="314" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LQcWQOEFzHMvCQXmjaSS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e7f3e5;strokeColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="250" height="100" as="geometry" />
@@ -16,8 +16,8 @@
         <mxCell id="LQcWQOEFzHMvCQXmjaSS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#efefe4;strokeColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="470" y="420" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LQcWQOEFzHMvCQXmjaSS-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LCA-domainized LLM using RAG&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="314" y="160" width="236" height="30" as="geometry" />
+        <mxCell id="LQcWQOEFzHMvCQXmjaSS-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;LCA-domainized LLM using RAG&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="236" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
