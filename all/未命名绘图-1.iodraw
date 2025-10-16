@@ -13,7 +13,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KtVhvxsW8bAND8OOkRle-1" value="大语言模型生成数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KtVhvxsW8bAND8OOkRle-3" value="数据置信度评分体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
@@ -22,7 +22,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KtVhvxsW8bAND8OOkRle-4" value="数据可追溯性设计方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KtVhvxsW8bAND8OOkRle-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KtVhvxsW8bAND8OOkRle-6" target="KtVhvxsW8bAND8OOkRle-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KtVhvxsW8bAND8OOkRle-6" value="自动评估脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
@@ -30,7 +33,7 @@
         <mxCell id="KtVhvxsW8bAND8OOkRle-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KtVhvxsW8bAND8OOkRle-3" target="KtVhvxsW8bAND8OOkRle-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KtVhvxsW8bAND8OOkRle-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KtVhvxsW8bAND8OOkRle-9" value="评估结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
