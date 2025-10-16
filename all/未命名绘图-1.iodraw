@@ -4,8 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KtVhvxsW8bAND8OOkRle-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KtVhvxsW8bAND8OOkRle-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KtVhvxsW8bAND8OOkRle-1" value="大语言模型生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
