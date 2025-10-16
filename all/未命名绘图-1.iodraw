@@ -22,8 +22,8 @@
         <mxCell id="KtVhvxsW8bAND8OOkRle-9" value="评估结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KtVhvxsW8bAND8OOkRle-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="KtVhvxsW8bAND8OOkRle-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.446;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KtVhvxsW8bAND8OOkRle-1" target="KtVhvxsW8bAND8OOkRle-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
