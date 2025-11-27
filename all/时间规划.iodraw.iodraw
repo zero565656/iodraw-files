@@ -452,8 +452,8 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-530" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;基于大语言模型(LLM)的LCA数据理解与智能优选研究&lt;/span&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rowspan=1;colspan=3;rounded=1;labelBackgroundColor=none;fillColor=#E6FFCC;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1">
-          <mxGeometry x="60" width="90" height="31" as="geometry">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-530" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;基于大语言模型(LLM)的LCA数据理解与智能优选研究&lt;/span&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;fillColor=#E6FFCC;strokeColor=#0F8B8D;fontColor=#143642;rowspan=1;colspan=6;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1">
+          <mxGeometry x="60" width="180" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -467,17 +467,17 @@
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-515" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-515" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1" visible="0">
           <mxGeometry x="150" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-575" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-575" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1" visible="0">
           <mxGeometry x="180" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxsyHFAf4K7mnx9bS5h-570" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1">
+        <mxCell id="WIxsyHFAf4K7mnx9bS5h-570" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIxsyHFAf4K7mnx9bS5h-465" vertex="1" visible="0">
           <mxGeometry x="210" width="30" height="31" as="geometry">
             <mxRectangle width="30" height="31" as="alternateBounds" />
           </mxGeometry>
