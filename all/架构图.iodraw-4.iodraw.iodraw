@@ -312,10 +312,10 @@
         <mxCell id="7JV8_Gm6B9txWVZl8HKL-13" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Calid PDF&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
           <mxGeometry x="111.56" y="512.5" width="55.5" height="11.5" as="geometry" />
         </mxCell>
-        <mxCell id="7JV8_Gm6B9txWVZl8HKL-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7JV8_Gm6B9txWVZl8HKL-15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="360" as="sourcePoint" />
-            <mxPoint x="410" y="310" as="targetPoint" />
+            <mxPoint x="333" y="210" as="sourcePoint" />
+            <mxPoint x="390" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
