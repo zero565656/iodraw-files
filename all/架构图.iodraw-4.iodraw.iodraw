@@ -306,8 +306,8 @@
         <mxCell id="7JV8_Gm6B9txWVZl8HKL-11" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Candidate Papers&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;(xml/PDF)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
           <mxGeometry x="123.5" y="371" width="71" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="7JV8_Gm6B9txWVZl8HKL-12" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Candidate Papers&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;(xml/PDF)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
-          <mxGeometry x="133.5" y="381" width="71" height="24" as="geometry" />
+        <mxCell id="7JV8_Gm6B9txWVZl8HKL-12" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Semantic Filter/&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Relevance Check&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
+          <mxGeometry x="127.27" y="429.5" width="71" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
