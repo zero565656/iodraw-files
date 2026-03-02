@@ -312,15 +312,13 @@
         <mxCell id="7JV8_Gm6B9txWVZl8HKL-13" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Calid PDF&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
           <mxGeometry x="111.56" y="512.5" width="55.5" height="11.5" as="geometry" />
         </mxCell>
-        <mxCell id="7JV8_Gm6B9txWVZl8HKL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#06315b;" edge="1" parent="1" source="7JV8_Gm6B9txWVZl8HKL-3" target="7JV8_Gm6B9txWVZl8HKL-5">
+        <mxCell id="7JV8_Gm6B9txWVZl8HKL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#06315b;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="109.06" y="296.44000000000005" as="sourcePoint" />
-            <mxPoint x="169.56" y="322.44000000000005" as="targetPoint" />
+            <mxPoint x="20" y="310" as="sourcePoint" />
+            <mxPoint x="20" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="109" y="296" />
-              <mxPoint x="138" y="296" />
-              <mxPoint x="138" y="322" />
-              <mxPoint x="110" y="322" />
+              <mxPoint x="10" y="310" />
+              <mxPoint x="10" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
