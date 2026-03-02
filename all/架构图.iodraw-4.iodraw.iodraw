@@ -277,7 +277,7 @@
           <mxGeometry x="549" y="304.75" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7JV8_Gm6B9txWVZl8HKL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#06315b;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontColor=#06315b;" vertex="1" parent="1">
-          <mxGeometry x="22" y="225" width="168" height="315" as="geometry" />
+          <mxGeometry x="60" y="226" width="160" height="315" as="geometry" />
         </mxCell>
         <mxCell id="7JV8_Gm6B9txWVZl8HKL-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Literature Acquisition&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="122" height="20" as="geometry" />
