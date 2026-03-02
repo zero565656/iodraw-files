@@ -303,8 +303,8 @@
         <mxCell id="7JV8_Gm6B9txWVZl8HKL-10" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;API Search/&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Keywords&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
           <mxGeometry x="122.81" y="308.73" width="71" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="7JV8_Gm6B9txWVZl8HKL-11" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;API Search/&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Keywords&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
-          <mxGeometry x="132.81" y="318.73" width="71" height="24" as="geometry" />
+        <mxCell id="7JV8_Gm6B9txWVZl8HKL-11" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Candidate Papers&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;(xml/PDF)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#06315b;" vertex="1" parent="1">
+          <mxGeometry x="123.5" y="374" width="71" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
